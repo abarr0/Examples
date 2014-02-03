@@ -17,5 +17,10 @@
 			$id = $_GET['id'];
 			echo $id;		
 		?>
+		
+		<?php
+			$company = $_GET['company'];
+			echo $company;		
+		?>
 	</body>
 </html>
